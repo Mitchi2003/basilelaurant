@@ -27,7 +27,7 @@ Pour cloner ce projet et le faire tourner localement, suivez les étapes ci-dess
     ```bash
     git clone https://github.com/Mitchi2003/basilelaurent.git
     ```
-2. Ouvrez `index.html` dans votre navigateur web.
+2. Ouvrez `basile.html` dans votre navigateur web.
 
 ## Contribuer
 
